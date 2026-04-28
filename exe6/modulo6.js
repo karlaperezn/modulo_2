@@ -1,3 +1,5 @@
-module.exports = function lenghtString(string) {
+function lenghtString(string) {
     return string.lenght
 }
+
+module.exports = lenghtString
