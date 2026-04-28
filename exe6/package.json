@@ -1,0 +1,5 @@
+{
+    "dependencies": {
+        "modulo6.js" : "./exe6/modulo6.js"
+}
+}

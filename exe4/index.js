@@ -1,3 +1,3 @@
-import num from "modulo.js"
+let mifuncion = require('./modulo.js')
 
-num (45,7)
+console.log(mifuncion(45,7))

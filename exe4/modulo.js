@@ -1,4 +1,4 @@
-export function num(num1, num2) {
-    if (num1 < num2) console.log(num1)
-    else console.log(num2)
+module.exports= function num(num1, num2) {
+    if (num1 < num2) return num1
+    else return num2
 }
