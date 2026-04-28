@@ -1,0 +1,7 @@
+{
+  "type" : "module",
+
+  "dependencies": {
+    "exact-math": "^2.2.3"
+  }
+}
